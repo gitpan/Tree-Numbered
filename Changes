@@ -1,0 +1,9 @@
+Revision history for Perl module Tree::Numbered.
+
+0.01  Wed Oct  1 15:18:03 2003
+	- original version; created by h2xs 1.22 with options
+		-AX NumberedTree
+1.00  Thu Oct  28 (What you want the time for?)
+	- Changed the name to Tree::Numbered
+	- Added the fields control mechanism.
+	- the Value field is no longer special (but is default).

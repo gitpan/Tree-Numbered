@@ -1,0 +1,23 @@
+Tree::Numbered version 1.00
+=========================
+
+NAME
+
+Tree::Numbered - a tree with unique numbers for its nodes.
+  
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 Yosef Meller
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
