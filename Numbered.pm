@@ -2,7 +2,7 @@ package Tree::Numbered;
 
 use strict;
 
-our $VERSION = '1.00';
+our $VERSION = '1.00.1';
 
 our @counters = (); # For getting new serial numbers.
 
@@ -699,7 +699,21 @@ or send mail to E<lt>bug-Tree-Numbered#rt.cpan.orgE<gt>
 
 =head1 SEE ALSO
 
-Tree::Numbered::DB, Javascript::Menu
+=over 4
+
+=item Tree::Numbered::DB
+
+Use this module with a DB datasource.
+
+=item Tree::Numbered::Tools (by Johan Kuuse)
+
+Tools for easier handling of T::N and T::N::DB
+
+=item Javascript::Menu, HTML::Widget::SideBar
+
+Use this module to build hierarchical widgets in web pages.
+
+=back
 
 =head1 AUTHOR
 
